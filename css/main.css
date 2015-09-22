@@ -1,0 +1,21 @@
+/* add custom styles */
+img {
+  height: 200px;
+  width: 200px;
+  margin: 20px;
+  border: 2px solid;
+  padding: 10px;
+}
+
+.highlight {
+  background-color: yellow;
+}
+
+#scores {
+  float: right;
+}
+
+body {
+  background: url(https://image.freepik.com/free-photo/rock-paper-scissors_2933320.jpg);
+  color: black;
+}
